@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "116504582246",
+    "firebase_url": "https://justbustracker-26317.firebaseio.com",
+    "project_id": "justbustracker-26317",
+    "storage_bucket": "justbustracker-26317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116504582246:android:dbdd047cfa844656",
+        "android_client_info": {
+          "package_name": "msttech.com.justbustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116504582246-vkt4ot0bto1vfkk0074glbd68oe2btvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "msttech.com.justbustracker",
+            "certificate_hash": "54b3b661cb3962be0ece37e950a4556d2b9c988c"
+          }
+        },
+        {
+          "client_id": "116504582246-vckaut91ilkl6f27umh9ge7ruv9p9k32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-FZCB9VrOTp7zAbj7ILpwBj58Ut7Sszc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116504582246-vckaut91ilkl6f27umh9ge7ruv9p9k32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
